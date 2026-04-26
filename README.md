@@ -1,2 +1,2 @@
 # Restaurant-Inventory
-sfsf
+A restaurant inventory database with a web interface
